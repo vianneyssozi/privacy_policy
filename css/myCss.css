@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2018, 11:31:51 PM
+    Author     : user
+*/
+
+@font-face {
+  font-family: 'Kabel';
+
+  src: url('../fonts/KabelITCbyBT-Book.otf');
+/*  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');*/
+}
+
+body{
+font-family: 'Kabel';
+	background-color: #0d47a1;
+	color:white; 
+}
+
